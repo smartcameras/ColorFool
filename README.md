@@ -2,7 +2,7 @@
 
 This is the official repository of [ColorFool: Semantic Adversarial Colorization](https://arxiv.org/pdf/1911.10891.pdf), a work published in The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, Washington, USA, 14-19 June, 2020.<br>
 
-
+![Alt Text](ColorFool.gif)
 <b>Example of results</b>
 
 | Original Image | Attack AlexNet | Attack ResNet18 | Attack ResNet50 |
