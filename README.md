@@ -41,7 +41,7 @@ The code works in two steps:
    ```
    cd Segmentation
    ```
-2. Download segmentation model (both encoder and decoder) ([source](https://github.com/CSAILVision/semantic-segmentation-pytorch))
+2. Download segmentation model (both encoder and decoder) (Provided by [CSAILVision](https://github.com/CSAILVision/semantic-segmentation-pytorch))
    ```
    wget http://www.eecs.qmul.ac.uk/~rsm31/data/CVPR2020/decoder_epoch_20.pth -P models/
    wget http://www.eecs.qmul.ac.uk/~rsm31/data/CVPR2020/encoder_epoch_20.pth -P models/ 
