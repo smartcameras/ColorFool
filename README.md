@@ -41,8 +41,8 @@ The code works in two steps:
    ```
    cd Segmentation
    ```
-2. Download segmentation model (both encoder and decoder) from the following link and locate in "models" directory: 
-   https://drive.google.com/drive/folders/1FjZTweIsWWgxhXkzKHyIzEgBO5VTCe68
+2. Download segmentation model (both encoder and decoder) from [here](https://drive.google.com/drive/folders/1FjZTweIsWWgxhXkzKHyIzEgBO5VTCe68) and locate in "models" directory.
+   
 
 3. Run the segmentation for all images within Dataset directory (requires GPU)
    ```
