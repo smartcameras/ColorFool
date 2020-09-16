@@ -41,7 +41,7 @@ The code works in two steps:
    ```
    cd Segmentation
    ```
-2. Download segmentation model (both encoder and decoder) (Provided by [CSAILVision](https://github.com/CSAILVision/semantic-segmentation-pytorch)) from the below link and locate in "models" directory 
+2. Download segmentation model (both encoder and decoder) from the following link and locate in "models" directory: 
    https://drive.google.com/drive/folders/1FjZTweIsWWgxhXkzKHyIzEgBO5VTCe68
 
 3. Run the segmentation for all images within Dataset directory (requires GPU)
